@@ -6,6 +6,7 @@ This project is a sample code to use [FMDB](https://github.com/ccgus/fmdb) as a 
 ## Scope
 
 In this project, we implement
+
 1. Create a database
 2. Create a table
 3. List the table
